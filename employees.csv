@@ -1,0 +1,21 @@
+employee_id,name,department,age,salary,join_date
+1,Kelly Haas,Support,29,3225.1,2023-06-30
+2,Mark Anderson,Marketing,37,5008.9,2019-02-19
+3,John Gilbert,Support,28,9090.3,2017-10-27
+4,Loretta Greer,Finance,27,8314.43,2017-12-23
+5,Stephen Nguyen,HR,23,3843.26,2017-04-16
+6,John Campbell,Engineering,54,8418.17,2016-06-25
+7,Leslie Larson,Finance,34,9444.18,2015-09-24
+8,Michael Jones,Support,56,6775.68,2015-11-29
+9,Michael Harris,Sales,59,5503.72,2022-12-29
+10,Megan Johnson,HR,32,9283.25,2025-05-10
+11,Max Sharp,Marketing,39,4399.32,2025-02-08
+12,Laura Snyder,Marketing,28,3834.71,2023-10-01
+13,Nicole Johnson,HR,44,10627.45,2021-06-23
+14,Frances Carlson DVM,Finance,38,10264.15,2018-03-13
+15,Sarah Brooks,Support,51,7826.05,2024-08-16
+16,Matthew Lopez MD,Sales,27,7968.37,2024-02-07
+17,Brian Bridges,Support,45,8196.17,2017-05-24
+18,Jeffrey Thompson,Support,26,3412.42,2015-07-23
+19,Cristina Hernandez,Engineering,40,11866.99,2020-04-30
+20,Jennifer Hamilton,Engineering,28,6421.14,2023-05-25
